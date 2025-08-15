@@ -17,9 +17,9 @@ https://22060020-ai-2-bh8kv6siqz8m2qbqvfuxew.streamlit.app/
 
 
 ## 図
-# システム設計図
+### システム設計図
 ![システム設計図](system_diagram_cute.png)
 
-# コード説明図
+### コード説明図
 ![コード説明図](code_diagram_cute.png)
 
