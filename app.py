@@ -5,7 +5,7 @@ st.title("犬の画像アプリ")
 
 breeds = get_all_breeds()
 selected_breed = st.selectbox("犬種を選んでください", breeds)
-
+ 
 col1, col2 = st.columns(2)
 
 with col1:

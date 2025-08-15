@@ -6,7 +6,7 @@ def get_all_breeds():
     if response.status_code == 200:
         return list(response.json()["message"].keys())
     return []
-
+ 
 def get_random_image():
     url = "https://dog.ceo/api/breeds/image/random"
     response = requests.get(url)

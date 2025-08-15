@@ -4,7 +4,7 @@
 Streamlitを使った犬の画像表示アプリで、  
 ユーザーが犬種を選択すると、その犬種のランダムな画像を表示します。  
 また、ランダムに犬の画像を表示するボタンもあります。
-
+ s
 ## 使用API
 - [Dog CEO's Dog API](https://dog.ceo/dog-api/)
 
@@ -13,7 +13,8 @@ Streamlitを使った犬の画像表示アプリで、
 - `dog_api.py`: Dog CEOのAPIを呼び出す部分
 
 ## 公開URL
-https://あなたのStreamlitCloudのURL
+https://fsrsshnapp8fyhbgynujbc6.streamlit.app
+
 
 ## 図
 ![システム設計図](system_diagram_cute.png)
